@@ -1,6 +1,6 @@
 # TP1 - Notions de base en programmation C
 
-[Sujet](../tree/master/TP/Sujet-TP1-etu.pdf)
+[Sujet](../TP1/Sujet-TP1-etu.pdf)
 
 Éléments abordés : 
 - Rappel des commandes de compilation et d’exécution de programmes C.
